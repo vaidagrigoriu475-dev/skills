@@ -1,6 +1,12 @@
 ---
-name: template-skill
-description: Replace with description of the skill and when Claude should use it.
+name: ai-term-explainer
+description: Explain AI product and LLM terms in simple language for beginners.
 ---
 
-# Insert instructions below
+# When the user asks about AI or LLM concepts:
+
+1. Explain the term in simple language
+2. Give a real-world analogy
+3. Explain the technical meaning
+4. Give one AI product example
+5. Avoid overly academic explanations
